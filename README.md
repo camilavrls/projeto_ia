@@ -4,7 +4,7 @@
 
 O dataset deste projeto é formado por imagens e suas respectivas marcações de segmentação, produzidas para identificar as regiões de interesse analisadas no projeto. Para documentar essa base, este repositório apresenta uma amostra do dataset com a imagem original e sua versão anotada, evidenciando como as marcações foram realizadas.
 
-A base foi organizada em três subconjuntos: `train`, `validation` e `test`. Essa divisão permite separar as imagens usadas no treinamento do modelo. Os exemplos incluídos no repositório têm o objetivo de demonstrar, de forma clara, a estrutura da base e o processo de anotação utilizado no projeto.
+A base foi organizada em três subconjuntos: `train`, `valid` e `test`. Essa divisão permite separar as imagens usadas no treinamento do modelo. Os exemplos incluídos no repositório têm o objetivo de demonstrar, de forma clara, a estrutura da base e o processo de anotação utilizado no projeto.
 
 ## Justificativa sobre a ausência de análise exploratória tradicional e de tratamento dos dados (imagens)
 
