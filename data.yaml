@@ -1,0 +1,13 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 3
+names: ['Direita_baixo', 'Direita_cima', 'Esquerda']
+
+roboflow:
+  workspace: tccsipadroes
+  project: 2-dec_maca-rykfj
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tccsipadroes/2-dec_maca-rykfj/dataset/1
